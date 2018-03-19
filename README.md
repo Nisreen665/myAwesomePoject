@@ -1,1 +1,1 @@
-# myAwesomePoject
+# myAwesomeProject
